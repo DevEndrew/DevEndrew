@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">STATS</h2>
+<h2 align="left">SOCIAL</h2>
 
 ###
 
